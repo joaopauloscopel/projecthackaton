@@ -1,0 +1,12 @@
+
+Portas a serem liberadas :
+
+Oracle - 1522 TCP e UDP
+Tom Cat - 80 / 433 - TCP
+Arquivos: 8433 TCP e UDP
+Email: 25, 110, 587 TCP
+Storage: 8433 TCP e UDP
+
+Segurança a ser Implantanda em todas as pontas
+PFSense
+
